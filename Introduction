@@ -1,0 +1,15 @@
+The advancement and innovations in technology triggers the needs for controlling and monitoring of
+different environmental parameters such as temperature, humidity and CO2. The system hardware platforms are
+basically low-power embedded microcontroller systems with on board sensors and analog I/O ports for
+connecting the sensors.
+Prediction and estimation with Arduino has two components, hardware components and software
+components. Hardware component are those components that detect and organized the environment parameter
+e.g. Arduino board, bread board, sensors, jumper wires, USB cable for connecting Arduino board with
+computer. Then second component is Arduino software which tells what hardware component of Arduino to do.
+The software has an environment in which codes are typed and edited. Initially, the hardware connection is
+made and deployed, the connection in environment surfaces to detect the parameters (e.g., temperature,
+humidity and CO2 and etc.) while a program codes extract and organize data from the sensors, manage it and
+display variations in the environmental parameters. Sensor devices are placed at different locations to collect the
+data and predict the behavior of a particular area with variations in selected environmental parameters, the
+output of each sensor is then loaded and displayed in a serial monitor. The program in Arduino IDE uses
+looping i.e. a particular program will keep on iterating until it has been terminated 
